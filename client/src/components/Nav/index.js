@@ -11,4 +11,3 @@ function Nav() {
 }
 
 export default Nav;
-© 2020 GitHub, Inc.
